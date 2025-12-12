@@ -10,7 +10,7 @@ last_name: Shramko
 superuser: true
 
 # Role/position
-role: Undergraduate Student
+role: MSc Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,17 +18,16 @@ organizations:
     url: 'www.sfu.ca'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 3D Reconstruction and Algorithms
+bio: My research focuses on neural rendering
 
 interests:
-  - 3D Reconstruction
-  - Algorithms
+  - Neural Rendering
 
 education:
   courses:
-    - course: Honours Bachelor of Science, Computer Science
+    - course: Honours BSc, Computer Science
       institution: Simon Fraser University
-      year: 2025 (expected)
+      year: 2025 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -59,7 +58,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Members
+  - Grad Students
 ---
 
-I am an undergraduate Computer Science student at Simon Fraser University. I am part of SFU APEX lab supervised by [Ke Li](https://www.sfu.ca/~keli//). My research focuses on 3D reconstruction.
+I am an MSc Thesis student at Simon Fraser University, co-advised by [Ke Li](https://www.sfu.ca/~keli//) and [Andrea Tagliasacchi](https://theialab.ca/). I am honoured to hold the prestigious [NSERC CGS-M Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/cgrsm-besrm_eng.asp). Previously I received my Bachelor's in Computing Science here at SFU.
+
+My research lies at the intersection of Computer Vision and Computer Graphics. Recently I am particularly interested in neural 3D representations well-suited for editing and motion.
