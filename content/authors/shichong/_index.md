@@ -43,7 +43,7 @@ social:
     link: 'mailto:spa176@sfu.ca'
   - icon: house
     icon_pack: fas
-    link: [https://mikacuy.github.io/](https://niopeng.github.io/)
+    link: https://niopeng.github.io/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/PengShichong
